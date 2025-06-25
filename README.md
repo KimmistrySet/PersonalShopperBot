@@ -1,2 +1,4 @@
 # PersonalShopperBot
 An interactive chatbot designed to curate product lists for website shoppers
+
+This bot is a sample idea for practical AI applications. For practical use, a robust product database would be needed. My complete idea for this particular bot would include more features, such as tracking user behaviors (such as click rates, view times, purchase records, abandoned cart items), tracking new products, sales, promotions, or any other relevant information that could lead to a sale and flagging product matches for sending to the user and/or adding to an updated list for the next user visit, allowing for users to opt-in for product notifications, and asking for more information to further refine curated lists.
